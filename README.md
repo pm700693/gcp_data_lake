@@ -1,1 +1,2 @@
-# gcp_data_lake
+# GCP Data Lake
+GCS + Dataproc + BigQuery skeletons.
